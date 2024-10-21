@@ -1,1 +1,1 @@
-# landing-page
+# Rock Paper Scissors Game
